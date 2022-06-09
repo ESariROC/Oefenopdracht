@@ -28,3 +28,12 @@ input {
 button {
     margin-left: 10px;
 }
+.names {
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.disable {
+    display: none;
+}
